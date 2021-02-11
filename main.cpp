@@ -3,6 +3,7 @@
 
 int main()
 {
+  std::cout << "Starting main...\n"; 
   try
   {
     lab2();
